@@ -22,9 +22,10 @@ export default {
   effects: (dispatch) => ({
     async getUserInfo(payload, rootState) {
       await delay(1000);
+      console.log('rootState.home.name:', rootState.home.name);
       this.update({
-        name: 'demo' + rootState.home.name,
-        id: '123' + rootState.home.id,
+        name: `demo${rootState.home.name}`,
+        id: `123${rootState.home.id}`,
       });
     },
   }),

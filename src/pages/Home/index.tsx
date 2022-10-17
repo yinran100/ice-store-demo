@@ -18,7 +18,7 @@ const Home = () => {
     <p>
       id: {homeState.id}
     </p>
-  </div>);
+          </div>);
 };
 
 export default Home;

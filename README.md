@@ -1,6 +1,7 @@
 
 ## Simple
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/___YOUR_PATH___)
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/yinran100/ice-store-demo)
 
 > A TypeScript simple template
 
